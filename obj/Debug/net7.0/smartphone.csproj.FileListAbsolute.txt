@@ -1,0 +1,15 @@
+D:\DIO\smartphone\bin\Debug\net7.0\smartphone.exe
+D:\DIO\smartphone\bin\Debug\net7.0\smartphone.deps.json
+D:\DIO\smartphone\bin\Debug\net7.0\smartphone.runtimeconfig.json
+D:\DIO\smartphone\bin\Debug\net7.0\smartphone.dll
+D:\DIO\smartphone\bin\Debug\net7.0\smartphone.pdb
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.csproj.AssemblyReference.cache
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.AssemblyInfoInputs.cache
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.AssemblyInfo.cs
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.csproj.CoreCompileInputs.cache
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.dll
+D:\DIO\smartphone\obj\Debug\net7.0\refint\smartphone.dll
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.pdb
+D:\DIO\smartphone\obj\Debug\net7.0\smartphone.genruntimeconfig.cache
+D:\DIO\smartphone\obj\Debug\net7.0\ref\smartphone.dll
